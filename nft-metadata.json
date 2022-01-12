@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "name",
+      "value": "bit coin"
+    },
+    {
+      "trait_type": "color",
+      "value": "Yellow"
+    }
+  ],
+  "description": "BTC icon.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdoPAEGPpdkYxmxFEQoyVrToRnHX3BQg1rgQX4VZLFAC3",
+  "name": "Ramses"
+}
